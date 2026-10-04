@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stevefrankns.github.io/Protect-Files-from-Being-Deleted-Windows-and-Mac/sitemap.xml
